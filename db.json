@@ -1,6 +1,5 @@
 {
-    "pais": "Perú",
-    "ciudades": [
+    "Perú": [
       {
         "id": 1,
         "nombre": "Lima",
@@ -51,4 +50,5 @@
       }
     ]
   }
+  
   
